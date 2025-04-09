@@ -1,4 +1,4 @@
-# Felipe's Portfolio
+# Felipe's Place
 
 ## 🧑‍💻 Overview
 Hello! My name is Felipe, and I've been passionate about computing, technology, and the English language since childhood. These interests have shaped my journey, leading to extensive knowledge in systems, hardware, and electronics.
