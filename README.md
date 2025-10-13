@@ -5,7 +5,7 @@ Hello! My name is Felipe, and I've been passionate about computing, technology, 
 
 In 2019, I began a bachelor's degree in computer engineering. I'm driven by a love for learning, mastering new technologies, and solving challenges. My approach to learning emphasizes building a strong foundation before diving into creation.  
 I started in programming by learning C and C++ for object-oriented programming (OOP). I strongly recommend this approach to beginners as it provides a solid foundation in understanding memory management, optimizing code, and defining data types effectively.
-Throughout my professional journey, I have gained hands-on experience in infrastructure, working closely with Cisco devices, bare-metal environments, and virtualization technologies. These experiences have significantly influenced my approach as a developer, instilling in me a deep appreciation for performance optimization, network efficiency, and security best practices. Moreover, It's satisfying to understand the broader context and be able to add depth when crafting the smaller details.
+Throughout my professional journey, I have gained hands-on experience in infrastructure, working closely with Cisco devices, bare-metal environments, virtualization technologies and Databases. These experiences have significantly influenced my approach as a developer, instilling in me a deep appreciation for performance optimization, network efficiency, and security best practices. Moreover, It's satisfying to understand the broader context and be able to add depth when crafting the smaller details.
 
 ---
 
