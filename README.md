@@ -12,7 +12,7 @@ Throughout my professional journey, I have gained hands-on experience in infrast
 ## 🛠️ Professional Experience
 - **Languages:** PL/SQL, Python, HTML/CSS, and JavaScript.
 - **Agile Methodologies:** SCRUM and XP.
-- **Tools and Platforms:** Oracle APEX, SAP ERP, and Microsoft 365.
+- **Tools and Platforms:** Oracle APEX, SAP ERP, and Microsoft 365/Power.
 
 ---
 
