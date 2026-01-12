@@ -16,8 +16,8 @@ Throughout my professional journey, I have gained hands-on experience in infrast
 
 ---
 
-## 📖 Learning
-- Database Administration
+## 📖 Learning/Specializing
 - Data Engineering
-- Data Science
+- Back-End and API with .NET
+
 ---
