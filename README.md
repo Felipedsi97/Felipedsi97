@@ -1,4 +1,4 @@
-# Felipe's Place
+# A little bit about myself
 
 ## 🧑‍💻 Overview
 Hello! My name is Felipe, and I've been passionate about computing, technology, and the English language since childhood. These interests have shaped my choices, leading to extensive knowledge in systems, hardware, and electronics.
