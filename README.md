@@ -18,6 +18,6 @@ Throughout my professional journey, I have gained hands-on experience in infrast
 
 ## 📖 Learning/Specializing
 - Data Engineering
-- Back-End and API with .NET
+- Back-End and APIs
 
 ---
