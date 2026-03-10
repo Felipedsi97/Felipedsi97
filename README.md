@@ -9,10 +9,14 @@ Throughout my professional journey, I have gained hands-on experience in infrast
 
 ---
 
-## 🛠️ Professional Experience
-- **Languages:** PL/SQL, Python, HTML/CSS, and JavaScript.
-- **Agile Methodologies:** SCRUM and XP.
-- **Tools and Platforms:** Oracle APEX, SAP ERP, and Microsoft 365/Power.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipedsi97&layout=compact&theme=radical&hide=javascript,go)
+
+## 📊 Languages I Use
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
 
 ---
 
