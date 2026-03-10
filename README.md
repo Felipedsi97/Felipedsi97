@@ -1,7 +1,5 @@
 # A little bit about myself
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipedsi97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🧑‍💻 Overview
 Hello! My name is Felipe, and I've been passionate about computing, technology, and the English language since childhood. These interests have shaped my choices, leading to extensive knowledge in systems, hardware, and electronics.
 
