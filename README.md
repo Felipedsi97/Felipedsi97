@@ -9,8 +9,6 @@ Throughout my professional journey, I have gained hands-on experience in infrast
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipedsi97&layout=compact&theme=radical&hide=javascript,go)
-
 ## 📊 Languages I Use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
