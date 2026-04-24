@@ -19,8 +19,8 @@ Throughout my professional journey, I have gained hands-on experience in infrast
 ---
 
 ## 📖 Learning/Specializing
+- Software Engineering
 - Data Engineering
-- AI
-- Back-End and APIs
+- Back-End/APIs
 
 ---
